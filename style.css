@@ -82,3 +82,15 @@ p , h1 , h2 , h3 , h4 , h5 , h6 {
 }
 
 /* ////////////////////   top bar end   ////////////// */
+
+
+/* 1section */
+
+.home{
+    height: 60vh;
+}
+
+
+.homeone{
+    border: 5px solid red;
+}
